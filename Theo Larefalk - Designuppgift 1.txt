@@ -1,0 +1,24 @@
+﻿Som stationär dator så har jag valt HP Z2 Mini G4 eftersom att den har en väldigt bra prestanda för att klara av tyngre CAD uppgifter, och då är den perfekt för ert företag. 
+
+
+Som Laptop har jag valt HP ZBook 15 G5 Mobile Workstation eftersom att den har liknande prestanda som den Stationära datorn, eftersom om man ville visa en tyngre CAD uppgift för någon eller så så kommer det inte att vara någon stor skillnad mellan den här och stationära datorn. 
+
+
+Jag har valt  HP USB travel som docknings station. Eftersom den är billig och bra. 
+
+
+Som Keyboard och mus har jag valt Microsoft Sculpt Ergonomic Desktop eftersom den är ergonomiskt designad. 
+
+
+Som skärm har jag valt en HP EliteDisplay E273q eftersom det är en bra skärm.
+
+
+Jag har valt samma server för båda ändamålen en HPE ProLiant DL385 Gen10 - 1.2TB & extra RAM, eftersom den har prestandan och man kan använda olika storlekar för hårddiskar beroende på hur mycket lagring och plats man behöver ha.
+Jag skulle rekommendera HPE Enterprise 2.5 1800GB som hårddisk. 
+
+
+Sen till router har jag valt HPE Msr3024 eftersom den har allt som behövs och prestandan att den blir perfekt. 
+Sen till UPS har jag valt APC Smart-UPS 750VA LCD RM eftersom den fungerar bra och gör det den ska för priset.
+
+
+Som ritplatta har jag valt Wacom Cintiq 16 eftersom att den har en skärm på ritplats ytan som gör att det är lättare att se vad man gör.
